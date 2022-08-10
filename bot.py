@@ -27,7 +27,7 @@ initial_extensions = [
 intents = discord.Intents.default()
 intents.message_content = True
 
-BOT_PREFIX = '-'
+BOT_PREFIX = 'Pv$'
 
 # todo claer white space
 
